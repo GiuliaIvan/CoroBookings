@@ -1,5 +1,5 @@
 var users = [
-  {
+  
     "Bookings": {
       "bookingsUser1": {
         "appointment1": {
@@ -86,5 +86,5 @@ var users = [
         "username": "Rafa"
       }
     }
-  }
+  
 ]
