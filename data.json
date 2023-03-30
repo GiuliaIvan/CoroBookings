@@ -1,4 +1,4 @@
-var users = [
+[
   {
           "dateTime": "Apr 22, 15:00",
           "price": 300,
